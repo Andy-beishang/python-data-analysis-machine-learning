@@ -1,5 +1,11 @@
 # Python之禅，蒂姆•彼得斯
 
+创作不易，感谢大家的支持和关注工作号(**扫地僧Andy**)，需要加入QQ交流群的可以扫描下面的二维码，交流群会为大家提供**学习资源**和**问题解答**，[项目地址](https://github.com/Andy-beishang/python-data-analysis-machine-learning)，敬请关注。
+
+![QQ交流群](C:\Users\Administrator\Desktop\QQ群二维码.png)
+
+
+
 * **Beautiful is better than ugly.** 
   * <font color = red>优美胜于丑陋</font>（Python以编写优美的代码为目标） 
 * **Explicit is better than implicit.** 
@@ -30,3 +36,12 @@
   * <font color =red>如果你的实现很难向别人解释，这往往不是一个好的方案；如果你的实现很容易向别人解释，这可能是个好的方案</font>（方案测评标准）  
 * **Namespaces are one honking great idea -- let's do more of those!**  
   * <font color =red>命名空间是一种绝妙的理念，我们应当多加利用</font>（倡导与号召）
+
+
+
+
+
+
+
+
+
